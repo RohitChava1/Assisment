@@ -1,5 +1,5 @@
 import React from 'react'
-import {Button, Card} from"@material-ui/core"
+import {Button} from"@material-ui/core"
 import CheckIcon from '@material-ui/icons/Check';
 import "./trans.css";
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
